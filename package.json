@@ -1,0 +1,24 @@
+{
+  "name": "nodecms",
+  "version": "1.0.0",
+  "description": "Node CMS + Mongo + Mongoose + Handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karensantana/NodeCMS.git"
+  },
+  "author": "Karen Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karensantana/NodeCMS/issues"
+  },
+  "homepage": "https://github.com/karensantana/NodeCMS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.8.0"
+  }
+}
